@@ -1,0 +1,4 @@
+
+true: package(re2), annot
+<src>: include
+<src/*>: package(cmdliner)
